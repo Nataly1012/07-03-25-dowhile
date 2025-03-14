@@ -1,0 +1,17 @@
+div{
+    display: inline-flex;
+    }
+    
+    #div_hora {
+color: blueviolet;
+    }
+   
+#div_minutos {
+color: rebeccapurple;
+    }
+    
+    #div_segundos {
+color: blue;
+    }
+   
+    
